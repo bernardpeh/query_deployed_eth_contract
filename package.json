@@ -1,0 +1,26 @@
+{
+  "name": "query_deployed_eth_contract",
+  "version": "1.0.0",
+  "description": "Example on how to query deployed contract quickly",
+  "main": "truffle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "truffle-hdwallet-provider": "0.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bernardpeh/query_deployed_eth_contract.git"
+  },
+  "keywords": [
+    "ethereum"
+  ],
+  "author": "Bernard Peh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernardpeh/query_deployed_eth_contract/issues"
+  },
+  "homepage": "https://github.com/bernardpeh/query_deployed_eth_contract#readme"
+}
